@@ -1,0 +1,41 @@
+.main-wrapper{
+    margin-top: 20px;
+}
+
+
+.page-title{
+    text-align: center;
+}
+
+body{
+    background: rgb(202, 190, 190);
+}
+
+.container {
+    background: gray;
+    padding: 20px;
+    margin-top: 50px;
+    box-shadow: 5px 5px 5px black;
+}
+
+.col-md-4 input{
+    box-shadow:5px 5px 5px black ;
+}
+
+.col-md-6 input{
+    box-shadow: 5px 5px 5px black;
+}
+
+.col-md-3 select{
+    box-shadow: 5px 5px 5px black ;
+}
+
+.col-md-3 input{
+    box-shadow: 5px 5px 5px black;
+}
+
+body .registration-form{
+    width: 900px;
+    margin: auto;
+}
+
